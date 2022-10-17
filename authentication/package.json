@@ -2,7 +2,7 @@
   "name": "sabongmobile",
   "version": "5.0.0",
   "description": "",
-  "author": "John Dave Decano <johndavedecano@gmail.com>",
+  "author": "Den Russ <denshitz16@icloud.com>",
   "main": "./app.js",
   "private": false,
   "engines": {
